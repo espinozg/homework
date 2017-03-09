@@ -1,2 +1,10 @@
-In the House Hold Builder interface there are four buttons. When you enter the values in the forms, input and dropdown list of age
-and relationship, you will see an alert if no values are put in. That is one for each one.
+In the House Hold Builder interface there are four buttons. When you enter the values in the forms, input and dropdown list 
+of age and relationship, you will see an alert if no values are put in. That is an alert for each. You will enter the values
+and press enter then submit and then add if you want to add another person but the process is the same.
+
+First you enter the values.  
+Then you have to press add to add it to the display.  
+the values will be displayed below the title in an ordered list starting from one.
+when you press add then you can add another person or submit values to the server. 
+When you submit the values the values will be displayed in an array in a jSON stringify method. 
+This will then be ready to be used as data on the server side. 
